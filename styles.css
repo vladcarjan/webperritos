@@ -1,0 +1,20 @@
+
+section{
+    border: 1px solid black;
+    margin: 10px;
+    max-width: 300px;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+                0 10px 10px -5px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(171, 230, 225);
+}
+section>div{
+    display: flex;
+}
+
+section>div>img{
+    width: 80px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
