@@ -21,4 +21,4 @@ Somos una **asociación** amante de los animales. Fuck ~maltrato~ fuck sapos.
 
 ## Información extra 🐶
 
-visita la wikipedia[https://es.wikipedia.org/wiki/Canis_familiaris]
+[visita la wikipedia(https://es.wikipedia.org/wiki/Canis_familiaris)]
