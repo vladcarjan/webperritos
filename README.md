@@ -10,3 +10,10 @@ Somos una **asociación** amante de los animales. Fuck ~maltrato~ fuck sapos.
 * Pomerania
 * Pequines
 * Doberman
+
+## Cuidados principales
+1. Alimento
+2. Cariño
+3. Aseo
+4. Paseos
+
