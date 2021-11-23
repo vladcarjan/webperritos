@@ -45,12 +45,12 @@ Somos una **asociación** amante de los animales. Fuck ~maltrato~ fuck sapos.
 
 ## Programa que ladra
 
-'''java
+```java
 class Ladra{
 public static void main(String[] arg){
   System.out.println("guau");
  }
 }
-'''
+´´´
 
 [perro]:perro.jpg
