@@ -27,8 +27,6 @@ Somos una **asociación** amante de los animales. Fuck ~maltrato~ fuck sapos.
 
 ![alt][perro]
 
-[perro]:perro.jpg
-
 ## Tabla de peso en función de la edad y tipo de raza
 
 |edad| pequeño| mediano| grande|
@@ -44,3 +42,15 @@ Somos una **asociación** amante de los animales. Fuck ~maltrato~ fuck sapos.
 - [ ] de 12 a 14 semanas
 - [ ] de 14 a 16 semanas
 - [x] de 14 a 1
+
+## Programa que ladra
+
+'''java
+class Ladra{
+public static void main(String[] arg){
+  System.out.println("guau");
+ }
+}
+'''
+
+[perro]:perro.jpg
