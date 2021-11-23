@@ -33,6 +33,6 @@ Somos una **asociación** amante de los animales. Fuck ~maltrato~ fuck sapos.
 
 |edad| pequeño| mediano| grande|
 |----| -------| -------| ------|
-|  5| 36 | 37 | 40 |
-| 10| 56 | 60 | 66 |
-| 15| 76 | 86 | 93 |
+|  5| 36| 37| 40|
+| 10| 56| 60| 66|
+| 15| 76| 86| 93|
